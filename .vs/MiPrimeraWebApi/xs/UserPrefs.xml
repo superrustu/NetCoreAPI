@@ -1,15 +1,13 @@
-﻿<Properties StartupConfiguration="{E0DE1EB0-CCE7-475B-91B9-6FE7E69B87E7}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{E0DE1EB0-CCE7-475B-91B9-6FE7E69B87E7}|https" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="MiPrimeraWebApi/Controllers/PersonaController.cs">
     <Files>
-      <File FileName="MiPrimeraWebApi/Controllers/PersonaController.cs" Line="46" Column="1" />
-      <File FileName="Capa Entidad/PersonaCLS.cs" Line="7" Column="18" />
-      <File FileName="MiPrimeraWebApi/Controllers/WeatherForecastController.cs" Line="6" Column="9" />
+      <File FileName="MiPrimeraWebApi/Controllers/PersonaController.cs" Line="42" Column="30" />
+      <File FileName="Capa Entidad/PersonaCLS.cs" />
+      <File FileName="MiPrimeraWebApi/Controllers/WeatherForecastController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
