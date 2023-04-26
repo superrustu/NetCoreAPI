@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E0DE1EB0-CCE7-475B-91B9-6FE7E69B87E7}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MiPrimeraWebApi/Controllers/PersonaController.cs">
+    <Files>
+      <File FileName="MiPrimeraWebApi/Controllers/PersonaController.cs" Line="46" Column="1" />
+      <File FileName="Capa Entidad/PersonaCLS.cs" Line="7" Column="18" />
+      <File FileName="MiPrimeraWebApi/Controllers/WeatherForecastController.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MiPrimeraWebApi" expanded="True" selected="True">
+            <Node name="Capa Entidad" expanded="True" />
+            <Node name="MiPrimeraWebApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MiPrimeraWebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
